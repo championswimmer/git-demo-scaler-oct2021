@@ -1,1 +1,3 @@
 Redoing file B again
+Yet another line!!
+Adding a new feature
