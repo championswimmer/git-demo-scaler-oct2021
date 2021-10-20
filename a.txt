@@ -2,3 +2,4 @@ This is a file A
 Third line added
 Yet another line for A
 This was a line added online on Github
+Doing some fixes in A
