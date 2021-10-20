@@ -1,0 +1,3 @@
+This is file C
+This is another line in C
+Final line for C to get it working
