@@ -1,6 +1,4 @@
 Redoing file B again
 Yet another line!!
-Adding a new feature
-This is also audible.
 Another line I added on github.com
 Another remotely added line
