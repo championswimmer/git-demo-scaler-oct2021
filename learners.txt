@@ -6,3 +6,9 @@ Org: InterviewBit
 YoE: 6
 
 -----------------
+
+Name: Ranganath
+Org: MS
+YoE: 6
+
+-----------------
